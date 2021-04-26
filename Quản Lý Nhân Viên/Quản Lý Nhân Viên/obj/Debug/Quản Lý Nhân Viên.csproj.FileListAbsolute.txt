@@ -1,0 +1,10 @@
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản Lý Nhân Viên.csprojAssemblyReference.cache
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản_Lý_Nhân_Viên.Form1.resources
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản_Lý_Nhân_Viên.Properties.Resources.resources
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản Lý Nhân Viên.csproj.GenerateResource.cache
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản Lý Nhân Viên.csproj.CoreCompileInputs.cache
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\bin\Debug\Quản Lý Nhân Viên.exe.config
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\bin\Debug\Quản Lý Nhân Viên.exe
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\bin\Debug\Quản Lý Nhân Viên.pdb
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản Lý Nhân Viên.exe
+C:\Users\nkiet\source\repos\NguyenHHKiet\LinQ\Quản Lý Nhân Viên\Quản Lý Nhân Viên\obj\Debug\Quản Lý Nhân Viên.pdb
