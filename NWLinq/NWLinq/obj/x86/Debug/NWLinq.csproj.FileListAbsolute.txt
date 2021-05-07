@@ -1,0 +1,18 @@
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.QLDonHang.resources
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\bin\Debug\NWLinq.exe.config
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\bin\Debug\NWLinq.exe
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\bin\Debug\NWLinq.pdb
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.exe
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.pdb
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\NWLinq\NWLinq\bin\Debug\NWLinq.exe.config
+C:\Users\Admin\Desktop\NWLinq\NWLinq\obj\x86\Debug\NWLinq.exe
+C:\Users\Admin\Desktop\NWLinq\NWLinq\obj\x86\Debug\NWLinq.pdb
+C:\Users\Admin\Desktop\NWLinq\NWLinq\bin\Debug\NWLinq.exe
+C:\Users\Admin\Desktop\NWLinq\NWLinq\bin\Debug\NWLinq.pdb
+C:\Users\Admin\Desktop\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\NWLinq\NWLinq\obj\x86\Debug\NWLinq.QLDonHang.resources
+C:\Users\Admin\Desktop\NWLinq\NWLinq\obj\x86\Debug\NWLinq.Properties.Resources.resources
+C:\Users\Admin\Desktop\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csproj.GenerateResource.Cache

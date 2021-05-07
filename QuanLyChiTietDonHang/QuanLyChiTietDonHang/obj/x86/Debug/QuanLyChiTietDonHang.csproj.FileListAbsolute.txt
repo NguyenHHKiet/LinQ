@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\bin\Debug\QuanLyChiTietDonHang.exe
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\bin\Debug\QuanLyChiTietDonHang.pdb
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\obj\x86\Debug\QuanLyChiTietDonHang.Form1.resources
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\obj\x86\Debug\QuanLyChiTietDonHang.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\obj\x86\Debug\QuanLyChiTietDonHang.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\obj\x86\Debug\QuanLyChiTietDonHang.exe
+D:\Visual Studio 2010\Projects\QuanLyChiTietDonHang\QuanLyChiTietDonHang\obj\x86\Debug\QuanLyChiTietDonHang.pdb
